@@ -88,7 +88,7 @@ Finally, delete the path in the dataset loading cell and replace it with the pat
 
 ## 📜 **Credits**
 
-Soni Rani | Aspiring Data Scientist
+Vivek Kumar | Soni Rani
 
 ## 📚 **References**
 
