@@ -1,8 +1,7 @@
 # Book-Recommendation-System
-
-# Book-Recommendation-System
 **AlmaBetter Verfied Project**
-![download](https://user-images.githubusercontent.com/100477239/174729620-365061ad-c9a9-4aab-8d6a-3a4e32df8801.jpg)
+![books](https://user-images.githubusercontent.com/100477239/174729861-a8b08d37-fa2c-486c-a789-ae7521af8d62.jpeg)
+
 
 
 # 📋 Problem Statement
@@ -87,11 +86,11 @@ Finally, delete the path in the dataset loading cell and replace it with the pat
 
 6. For modelling, it was observed that for model based collaborative filtering SVD technique worked way better than NMF with lower Mean Absolute Error (MAE).
 
-## 📜 **Credits**
+## **Credits**
 
 Vivek Kumar | Soni Rani
 
-## 📚 **References**
+## **References**
 
 Collaborative Filtering documentation - https://realpython.com/build-recommendation-engine-collaborative-filtering/
 
