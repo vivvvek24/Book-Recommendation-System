@@ -2,7 +2,8 @@
 
 # Book-Recommendation-System
 **AlmaBetter Verfied Project**
-![1_4yiC3Zs6qNmueg66xqENmA](https://user-images.githubusercontent.com/100474431/174683819-26e6d9b8-242e-4105-91c6-8bcb7f6809d1.jpeg)
+![download](https://user-images.githubusercontent.com/100477239/174729620-365061ad-c9a9-4aab-8d6a-3a4e32df8801.jpg)
+
 
 # 📋 Problem Statement
 
