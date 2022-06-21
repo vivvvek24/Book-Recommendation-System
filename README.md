@@ -27,7 +27,7 @@ Data Processing: In this part we went through each attributes and encoded the ca
 
 Model Creation: Finally in this part we created the various models. These various models are being analysed and we tried to study various models so as to get the best performing model for our project.
 
-## 💾 **Project Files Description**
+## **Project Files Description**
 
 This Project includes 1 colab notebook and 1 Pdf of presentation.
 
@@ -39,7 +39,7 @@ This Project includes 1 colab notebook and 1 Pdf of presentation.
 ### **Output:**
 Google Colab - All the outputs are visible in the provided colab notebook.
 
-## 📋 **Execution Instruction**
+## **Execution Instruction**
 
 The order of execution of the colab notebook is as follows:
 
