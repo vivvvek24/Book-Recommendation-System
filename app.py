@@ -35,9 +35,9 @@ def predict():
     print(output)
 
     if output == 0:
-        return render_template('index.html', prediction_text='THE PATIENT IS NOT LIKELY TO HAVE A HEART FAILURE')
+        return render_template('index.html', prediction_text='THE RECOMMENDED BOOK')
     else:
-         return render_template('index.html', prediction_text='THE PATIENT IS LIKELY TO HAVE A HEART FAILURE')
+         return render_template('index.html', prediction_text='NOT RECOMMENDED')
         
 @app.route('/predict_api',methods=['POST'])
 def results():
